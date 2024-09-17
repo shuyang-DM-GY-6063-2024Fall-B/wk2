@@ -36,10 +36,6 @@ function setup() {
   ellipse(windowWidth/2,windowHeight/2,200)
 
 
-  
-
-
-
 
 }
 
